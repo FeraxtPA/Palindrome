@@ -14,4 +14,5 @@ def palindorme(number):
 
 number = int(input("Enter a number: "))
 print("Working")
+print("Working")
 palindorme(number)

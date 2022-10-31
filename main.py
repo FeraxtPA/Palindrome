@@ -13,7 +13,4 @@ def palindorme(number):
 
 
 number = int(input("Enter a number: "))
-print("Working")
-print("Working")
-print("Working3")
 palindorme(number)
